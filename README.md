@@ -15,7 +15,7 @@ These reflect my passion and dedication to continuous learning across **Full Sta
 | **IBM Data Analyst Specialization** | IBM via Coursera | [🔗 View Certificate](https://coursera.org/share/2faa5f164eb7a75bee09dca3217f82a0) |
 | **Google Cybersecurity Specialization** | Google via Coursera | [🔗 View Certificate](https://coursera.org/share/775da199b74547343dacc79367493b2d) |
 | **IBM Data Science Professional Certificate Specialization** | IBM via Coursera | [🔗 View Certificate](https://coursera.org/share/0283552f92cc918f7033d5569698291e) |
-| **Applied Software Engineering Fundamentals Specialization** | IBM Coursera | [🔗 View Certificate](https://coursera.org/share/a0b8e6ae38c60f100b0644762e504bc7) |
+| **Applied Software Engineering Fundamentals Specialization** | IBM Via Coursera | [🔗 View Certificate](https://coursera.org/share/a0b8e6ae38c60f100b0644762e504bc7) |
 
 ---
 
