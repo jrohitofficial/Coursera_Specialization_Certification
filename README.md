@@ -17,6 +17,7 @@ These reflect my passion and dedication to continuous learning across **Full Sta
 | **IBM iOS and Android Mobile App Developer** | IBM SkillUp via Coursera | [🔗 View Certificate](https://coursera.org/share/6ea33ee5671ac5fbe81074e851c92521) |
 | **IBM AI Engineering Professional Certificate** | IBM via Coursera | [🔗 View Certificate](https://coursera.org/verify/professional-cert/8P3JN9LVR3Q5) |
 | **Applied Data Science Specialization** | IBM via Coursera | [🔗 View Certificate](https://coursera.org/verify/specialization/UH1JYM178VZA) |
+| **Machine Learning Professional** | Stanford via Coursera | [🔗 View Certificate](https://coursera.org/verify/specialization/V10B8IZ5ZHX8) |
 
 ---
 
