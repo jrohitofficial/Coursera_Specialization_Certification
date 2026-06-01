@@ -18,6 +18,7 @@ These reflect my passion and dedication to continuous learning across **Full Sta
 | **IBM AI Engineering Professional Certificate** | IBM via Coursera | [🔗 View Certificate](https://coursera.org/verify/professional-cert/8P3JN9LVR3Q5) |
 | **Applied Data Science Specialization** | IBM via Coursera | [🔗 View Certificate](https://coursera.org/verify/specialization/UH1JYM178VZA) |
 | **Machine Learning Professional** | Stanford via Coursera | [🔗 View Certificate](https://coursera.org/verify/specialization/V10B8IZ5ZHX8) |
+| **IBM Machine Learning Specialization** | IBM via Coursera | [🔗 View Certificate](https://coursera.org/verify/professional-cert/66QGURHDV9RL) |
 
 ---
 
